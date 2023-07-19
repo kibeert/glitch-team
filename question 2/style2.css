@@ -1,0 +1,23 @@
+.table{
+    box-sizing: border-box;
+    background: rgba(255,255, 255, 0.3);
+    width: 100vw;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.table table tr th{
+    background-color: blue;
+    color:white;
+    border: 2px solid black;
+}
+.table table{
+    border:2px solid black;
+}
+table ,th, td{
+    border: 1px solid black;
+}
+.day{
+    font-weight: bold;
+    text-transform: capitalize;
+}
