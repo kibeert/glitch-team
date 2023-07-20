@@ -1,4 +1,8 @@
 .maincointainer {
-    background-image:url(download.jpeg)
-    background-repeat :no-repeat;
+    background-image:url(download.jpeg);
+    background-repeat: no-repeat;
+    
+}
+.maincointainer background-image{
+    opacity: 0.2;
 }
